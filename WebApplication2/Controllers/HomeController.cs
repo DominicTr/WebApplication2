@@ -33,6 +33,11 @@ namespace WebApplication2.Controllers
             return View();
         }
 
+        public IActionResult Raziq()
+        {
+            return View();
+        }
+
         public IActionResult Privacy()
         {
             return View();

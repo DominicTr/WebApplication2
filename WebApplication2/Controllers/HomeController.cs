@@ -28,6 +28,10 @@ namespace WebApplication2.Controllers
 
             return View();
         }
+        public IActionResult Dominic()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {

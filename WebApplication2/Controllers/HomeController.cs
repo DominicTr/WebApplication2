@@ -37,6 +37,10 @@ namespace WebApplication2.Controllers
         {
             return View();
         }
+        public IActionResult Kalen()
+        {
+            return View();
+        }
 
         public IActionResult Privacy()
         {
